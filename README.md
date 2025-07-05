@@ -10,3 +10,4 @@ This is a simple Java task to simulate an e-commerce checkout system.
 - Shipping service.
 
 ## Console Output Example:
+![Console Output Screenshot](./assets/Fawry-task.png)
